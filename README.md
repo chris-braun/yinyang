@@ -2,8 +2,8 @@
 
 I saw this on X, and had to try it for myself.
 
-![alt text](docs/start.png)
-![alt text](docs/running.png)
+![start screen](docs/start.png "Start Screen")
+![running for a bit](docs/running.png "Running for a bit...")
 
 # Build
 
